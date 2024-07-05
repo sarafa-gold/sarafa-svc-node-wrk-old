@@ -12,6 +12,7 @@
   "devDependencies": {
     "@types/ejs": "^3.1.5",
     "@types/node": "^20.14.9",
+    "@types/yargs": "^17.0.32",
     "nodemon": "^3.1.4",
     "typescript": "^5.5.3"
   },
